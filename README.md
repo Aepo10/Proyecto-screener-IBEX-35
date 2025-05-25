@@ -29,35 +29,27 @@ Mediante la extracción y procesamiento de datos reales del mercado, se han calc
 
 ## 📁 Estructura del repositorio
 
-├── Data/ # Datos financieros originales
-├── Data_calculo_ratios/ # Datos procesados y ratios calculados
-├── 01.Obtención datos.ipynb # Descarga automática de datos desde Yahoo Finance
-├── 02.Ratios financieros.ipynb # Cálculo de indicadores financieros
-├── 03.Proceso de carga.ipynb # Preparación y limpieza de datos
-├── 04.EDA.ipynb # Análisis exploratorio de datos
-├── 05. AAR Dashboard...pdf # Documentación explicativa del dashboard
-├── IBEX35 - Dashboard.pbix # Dashboard interactivo en Power BI
-├── README.md # Este archivo
-└── .gitignore # Archivos y carpetas ignoradas por Git
-
-yaml
-Copiar
-Editar
+  ├── Data/ # Datos financieros originales
+  ├── Data_calculo_ratios/ # Datos procesados y ratios calculados
+  ├── 01.Obtención datos.ipynb # Descarga automática de datos desde Yahoo Finance
+  ├── 02.Ratios financieros.ipynb # Cálculo de indicadores financieros
+  ├── 03.Proceso de carga.ipynb # Preparación y limpieza de datos
+  ├── 04.EDA.ipynb # Análisis exploratorio de datos
+  ├── 05. AAR Dashboard...pdf # Documentación explicativa del dashboard
+  ├── IBEX35 - Dashboard.pbix # Dashboard interactivo en Power BI
+  ├── README.md # Este archivo
+  └── .gitignore # Archivos y carpetas ignoradas por Git
 
 ---
 
 ## ⚙️ Instalación y uso
 
 1. **Clona el repositorio**:
-   ```bash
    git clone https://github.com/tu_usuario/nombre_del_repositorio.git
    cd nombre_del_repositorio
 Instala las dependencias:
 Asegúrate de tener Python 3.8+ y luego instala las librerías necesarias:
 
-bash
-Copiar
-Editar
 pip install pandas numpy matplotlib seaborn yfinance openpyxl
 Opcional: Explora los notebooks
 Puedes ejecutar los .ipynb si deseas entender o modificar el proceso de obtención, análisis y cálculo de ratios.
