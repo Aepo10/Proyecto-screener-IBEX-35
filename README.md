@@ -74,7 +74,7 @@ Consulta el archivo 05. AAR Dashboard interactivo IBEX35 - Documentación.pdf pa
 ## 🤝 Contribuciones
 Cualquier feedback o interacción será bien recibido vía issues o pull requests.
 
-👤 Autor
+## 👤 Autor
 Este proyecto fue desarrollado como una solución práctica orientada al análisis de inversiones a través del IBEX35.
 
 Alberto Argüello Revilla
