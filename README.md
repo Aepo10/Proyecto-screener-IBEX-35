@@ -35,7 +35,7 @@ Mediante la extracción y procesamiento de datos reales del mercado, se han calc
  -  02.Ratios financieros.ipynb # Cálculo de indicadores financieros
  -  03.Proceso de carga.ipynb # Preparación, limpieza de datos y carga
  -  04.EDA.ipynb # Análisis exploratorio de datos
- -  05. AAR Dashboard...pdf # Documentación explicativa del dashboard
+ -  05.AAR Dashboard...pdf # Documentación explicativa del dashboard
  -  IBEX35 - Dashboard.pbix # Dashboard interactivo en Power BI
   
 ---
