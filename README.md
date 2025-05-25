@@ -29,17 +29,15 @@ Mediante la extracción y procesamiento de datos reales del mercado, se han calc
 
 ## 📁 Estructura del repositorio
 
-  ├── Data/ # Datos financieros originales
-  ├── Data_calculo_ratios/ # Datos procesados y ratios calculados
-  ├── 01.Obtención datos.ipynb # Descarga automática de datos desde Yahoo Finance
-  ├── 02.Ratios financieros.ipynb # Cálculo de indicadores financieros
-  ├── 03.Proceso de carga.ipynb # Preparación y limpieza de datos
-  ├── 04.EDA.ipynb # Análisis exploratorio de datos
-  ├── 05. AAR Dashboard...pdf # Documentación explicativa del dashboard
-  ├── IBEX35 - Dashboard.pbix # Dashboard interactivo en Power BI
-  ├── README.md # Este archivo
-  └── .gitignore # Archivos y carpetas ignoradas por Git
-
+ -  Data/ # Datos cargados en la base de datos en formato csv
+ -  Data_calculo_ratios/ # Datos procesados y ratios calculados
+ -  01.Obtención datos.ipynb # Descarga de los datos
+ -  02.Ratios financieros.ipynb # Cálculo de indicadores financieros
+ -  03.Proceso de carga.ipynb # Preparación, limpieza de datos y carga
+ -  04.EDA.ipynb # Análisis exploratorio de datos
+ -  05. AAR Dashboard...pdf # Documentación explicativa del dashboard
+ -  IBEX35 - Dashboard.pbix # Dashboard interactivo en Power BI
+  
 ---
 
 ## ⚙️ Instalación y uso
